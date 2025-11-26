@@ -20,8 +20,8 @@ pip install openai-whisper
 pip install -r requirements.txt
 ```
 
-4. Create Hugging Face Token:
-Go To https://huggingface.co/settings/tokens
-Create New Token with Read permissions
+4. Create Hugging Face Token:<br>
+Go to https://huggingface.co/settings/tokens<br>
+Create New Token with **Read** permissions.
 
 5. Insert Token into main.py line 47
